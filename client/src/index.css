@@ -1,0 +1,10 @@
+/* Google Fonts must be imported first */
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+/* Then Tailwind */
+@import "tailwindcss";
+
+/* Global styles */
+* {
+  font-family: "Roboto", sans-serif;
+}
