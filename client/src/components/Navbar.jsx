@@ -5,6 +5,7 @@ import { useNavigate } from 'react-router-dom'  // ✅ correct import
 const Navbar = () => {
   
   const navigate = useNavigate() 
+  
 
   return (
     <div className="w-full flex items-center justify-between px-6 py-4 bg-white shadow-md">
